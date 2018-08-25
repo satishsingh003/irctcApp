@@ -6,7 +6,6 @@ import Login from './googleLogin.jsx';
 import DashboardHome from './dashboardHome.jsx';
 
 import './App.css';
-import { SSL_OP_MICROSOFT_BIG_SSLV3_BUFFER } from 'constants';
 
 class App extends Component {
   render() {
